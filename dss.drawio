@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T05:45:33.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="f1LGnKz5NymbCij_PJ1m" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T05:48:20.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CxZjpr-8Dj3hh0NdtDMK" version="22.1.7" type="github">
   <diagram name="第 1 页" id="mmYeaYz6IpLw3gN7_6xA">
     <mxGraphModel dx="607" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
             <mxGeometry x="9" y="27" width="40" height="20" as="geometry" />
           </mxCell>
         </object>
-        <object label="宾词" 类型="公差类" 允值范围="8.5 ± 0.1 " id="FaK1V-1xx2kYKJdkDcPP-73">
+        <object label="宾词" 类型="公差类" 允值范围="35 ± 9 " id="FaK1V-1xx2kYKJdkDcPP-73">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-71">
             <mxGeometry x="11.5" y="54" width="35" height="20" as="geometry" />
           </mxCell>
@@ -152,7 +152,7 @@
             <mxRectangle x="280" y="60" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <object label="主词" 主词内容="工作电压" id="FaK1V-1xx2kYKJdkDcPP-88">
+        <object label="主词" 主词内容="供电电压" id="FaK1V-1xx2kYKJdkDcPP-88">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-87">
             <mxGeometry x="9" y="27" width="40" height="20" as="geometry" />
           </mxCell>
