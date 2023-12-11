@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T04:51:59.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="L94E4e_4AF85k57HsQ99" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T05:45:33.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="f1LGnKz5NymbCij_PJ1m" version="22.1.7" type="github">
   <diagram name="第 1 页" id="mmYeaYz6IpLw3gN7_6xA">
-    <mxGraphModel dx="733" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="607" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,12 +14,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-2" value="产品" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="72.5" y="241" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-6" value="DSS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="72.5" y="73" width="60" height="90" as="geometry" />
-        </mxCell>
+        <object label="产品" 部件类型="整机(/部件/组件/零件/原材料)" 父级ID="None" 关重属性="关键件(/重要件/普通件)" 其他组成="子件(/功能/结构/接口/部位)" 产品名称="电吹风(家用型)" id="FaK1V-1xx2kYKJdkDcPP-2">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+            <mxGeometry x="72.5" y="241" width="60" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="DSS" 标准编号="DSS_PDT_001" 标准名称="电吹风(产品规范)" 发布机构="DSSU.org" 发布日期="2023-12-01" 版_本_号="Ver 1.1" id="FaK1V-1xx2kYKJdkDcPP-6">
+          <mxCell style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+            <mxGeometry x="72.5" y="73" width="60" height="90" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="FaK1V-1xx2kYKJdkDcPP-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaK1V-1xx2kYKJdkDcPP-2" target="FaK1V-1xx2kYKJdkDcPP-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-77.40000000000003" y="375" as="targetPoint" />
@@ -30,12 +34,16 @@
             <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-13" value="属性" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="180" y="249.75" width="55" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-16" value="要求" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="182.5" y="110" width="50" height="30" as="geometry" />
-        </mxCell>
+        <object label="属性" 属性名称="手柄工作温度" 计量单位="℃" 试验方法="GB xxxx-xxxx" 属性类型="定量属性" 试验设备="红外温度传感器" id="FaK1V-1xx2kYKJdkDcPP-13">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+            <mxGeometry x="180" y="249.75" width="55" height="42.5" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="要求" 要求名称="手柄工作温度" 要求类型="强制要求(或推荐要求)" id="FaK1V-1xx2kYKJdkDcPP-16">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+            <mxGeometry x="182.5" y="110" width="50" height="30" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="FaK1V-1xx2kYKJdkDcPP-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.983;exitY=0.583;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FaK1V-1xx2kYKJdkDcPP-6" target="FaK1V-1xx2kYKJdkDcPP-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="145" as="sourcePoint" />
@@ -47,7 +55,7 @@
             <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaK1V-1xx2kYKJdkDcPP-16" target="FaK1V-1xx2kYKJdkDcPP-87">
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.99;exitY=0.36;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="FaK1V-1xx2kYKJdkDcPP-16" target="FaK1V-1xx2kYKJdkDcPP-87">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="80" as="targetPoint" />
             <mxPoint x="220" y="130" as="sourcePoint" />
@@ -58,9 +66,11 @@
             <mxPoint x="-5" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-32" value="规则" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="280" y="151.25" width="60" height="41" as="geometry" />
-        </mxCell>
+        <object label="规则" 规则名称="手柄工作温度验证规则" 规则类型="要求验证" id="FaK1V-1xx2kYKJdkDcPP-32">
+          <mxCell style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+            <mxGeometry x="280" y="150" width="60" height="41" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="FaK1V-1xx2kYKJdkDcPP-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaK1V-1xx2kYKJdkDcPP-16" target="FaK1V-1xx2kYKJdkDcPP-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="81.78999999999999" y="178.4" as="sourcePoint" />
@@ -105,39 +115,53 @@
             <mxPoint x="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-71" value="条件" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="280" y="234" width="60" height="30" as="geometry">
-            <mxRectangle x="280" y="234" width="60" height="80" as="alternateBounds" />
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-71" value="条件" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="280" y="234" width="60" height="80" as="geometry">
+            <mxRectangle x="280" y="234" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-72" value="主词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-71">
-          <mxGeometry x="9" y="27" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-73" value="宾词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-71">
-          <mxGeometry x="11.5" y="54" width="35" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-84" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;规则前提&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="384" y="112.25" width="76" height="30" as="geometry">
-            <mxRectangle x="384" y="112.25" width="60" height="80" as="alternateBounds" />
+        <object label="主词" 主词内容="手柄工作温度" id="FaK1V-1xx2kYKJdkDcPP-72">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-71">
+            <mxGeometry x="9" y="27" width="40" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="宾词" 类型="公差类" 允值范围="8.5 ± 0.1 " id="FaK1V-1xx2kYKJdkDcPP-73">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-71">
+            <mxGeometry x="11.5" y="54" width="35" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;span style=&quot;font-weight: normal;&quot;&gt;规则前提&lt;/span&gt;" 电吹风类型="家用型" id="FaK1V-1xx2kYKJdkDcPP-84">
+          <mxCell style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="384" y="120" width="76" height="30" as="geometry">
+              <mxRectangle x="384" y="120" width="60" height="80" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="主词" 主词内容="电吹风类型" id="FaK1V-1xx2kYKJdkDcPP-85">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-84">
+            <mxGeometry x="9" y="27" width="40" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="宾词" 宾词内容="家用型" id="FaK1V-1xx2kYKJdkDcPP-86">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-84">
+            <mxGeometry x="11.5" y="54" width="35" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-87" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;要求前提&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="60" height="80" as="geometry">
+            <mxRectangle x="280" y="60" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-85" value="主词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-84">
-          <mxGeometry x="9" y="27" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-86" value="宾词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-84">
-          <mxGeometry x="11.5" y="54" width="35" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-87" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;要求前提&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="280" y="60" width="80" height="30" as="geometry">
-            <mxRectangle x="280" y="60" width="60" height="80" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-88" value="主词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-87">
-          <mxGeometry x="9" y="27" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-89" value="宾词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-87">
-          <mxGeometry x="11.5" y="54" width="35" height="20" as="geometry" />
-        </mxCell>
+        <object label="主词" 主词内容="工作电压" id="FaK1V-1xx2kYKJdkDcPP-88">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-87">
+            <mxGeometry x="9" y="27" width="40" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="宾词" 宾词内容="220(v)" id="FaK1V-1xx2kYKJdkDcPP-89">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-87">
+            <mxGeometry x="11.5" y="54" width="35" height="20" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="FaK1V-1xx2kYKJdkDcPP-94" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="FaK1V-1xx2kYKJdkDcPP-72" target="FaK1V-1xx2kYKJdkDcPP-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="138" y="65" as="sourcePoint" />
@@ -160,20 +184,26 @@
             <mxPoint x="7" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-56" value="结果" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="370" y="204" width="60" height="30" as="geometry">
-            <mxRectangle x="370" y="204" width="60" height="100" as="alternateBounds" />
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-56" value="结果" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="370" y="204" width="60" height="100" as="geometry">
+            <mxRectangle x="370" y="204" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-57" value="主词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-56">
-          <mxGeometry x="9" y="27" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-58" value="宾词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-56">
-          <mxGeometry x="9.5" y="73" width="35" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-59" value="谓词" style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-56">
-          <mxGeometry x="7.5" y="50" width="40" height="20" as="geometry" />
-        </mxCell>
+        <object label="主词" 主词名称="手柄工作温度符合性" 表示类型="逻辑值（True/False）" id="FaK1V-1xx2kYKJdkDcPP-57">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-56">
+            <mxGeometry x="9" y="27" width="40" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="宾词" 结果取值="True/False" id="FaK1V-1xx2kYKJdkDcPP-58">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-56">
+            <mxGeometry x="9.5" y="73" width="35" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="谓词" 谓词内容="computedValue" id="FaK1V-1xx2kYKJdkDcPP-59">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-56">
+            <mxGeometry x="7.5" y="50" width="40" height="20" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
