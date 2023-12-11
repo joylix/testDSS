@@ -1,9 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T02:56:10.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.7" etag="5VGqjwl3eA5ZouOmUW8H" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T04:02:19.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="A_6r8CuAXBgvwwLzxb51" version="22.1.7" type="github">
   <diagram name="第 1 页" id="mmYeaYz6IpLw3gN7_6xA">
-    <mxGraphModel>
+    <mxGraphModel dx="607" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FaK1V-1xx2kYKJdkDcPP-6" target="FaK1V-1xx2kYKJdkDcPP-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="135" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-5" value="核心主题" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FaK1V-1xx2kYKJdkDcPP-4">
+          <mxGeometry x="0.0154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-2" value="产品" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-6" value="DSS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="60" y="10" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaK1V-1xx2kYKJdkDcPP-2" target="FaK1V-1xx2kYKJdkDcPP-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-77.40000000000003" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-24" value="有属性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FaK1V-1xx2kYKJdkDcPP-14">
+          <mxGeometry x="0.0036" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-13" value="属性" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="275" width="75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-16" value="要求" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="38.4" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaK1V-1xx2kYKJdkDcPP-6" target="FaK1V-1xx2kYKJdkDcPP-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="145" as="sourcePoint" />
+            <mxPoint x="250" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-18" value="有要求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FaK1V-1xx2kYKJdkDcPP-17">
+          <mxGeometry x="0.0154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaK1V-1xx2kYKJdkDcPP-16" target="FaK1V-1xx2kYKJdkDcPP-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="60" as="targetPoint" />
+            <mxPoint x="490" y="15" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-26" value="有前提" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FaK1V-1xx2kYKJdkDcPP-25">
+          <mxGeometry x="0.0036" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-32" value="规则" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaK1V-1xx2kYKJdkDcPP-16" target="FaK1V-1xx2kYKJdkDcPP-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="73.78999999999999" y="178.4" as="sourcePoint" />
+            <mxPoint x="73.78999999999999" y="258.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-34" value="有规则" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FaK1V-1xx2kYKJdkDcPP-33">
+          <mxGeometry x="0.0154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.522;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FaK1V-1xx2kYKJdkDcPP-32" target="FaK1V-1xx2kYKJdkDcPP-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="250" as="sourcePoint" />
+            <mxPoint x="255" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-37" value="有条件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FaK1V-1xx2kYKJdkDcPP-36">
+          <mxGeometry x="0.0154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaK1V-1xx2kYKJdkDcPP-32" target="FaK1V-1xx2kYKJdkDcPP-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="198" y="290" as="sourcePoint" />
+            <mxPoint x="255.12868801004402" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-41" value="有结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FaK1V-1xx2kYKJdkDcPP-40">
+          <mxGeometry x="0.0154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaK1V-1xx2kYKJdkDcPP-32" target="FaK1V-1xx2kYKJdkDcPP-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="244" y="284" as="sourcePoint" />
+            <mxPoint x="293.78999999999996" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-53" value="有前提" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FaK1V-1xx2kYKJdkDcPP-52">
+          <mxGeometry x="0.0154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-56" value="结果" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="105" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-57" value="主词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-56">
+          <mxGeometry x="9" y="27" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-58" value="宾词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-56">
+          <mxGeometry x="9.5" y="73" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-59" value="谓词" style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-56">
+          <mxGeometry x="7.5" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-71" value="条件" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="235" y="240" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-72" value="主词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-71">
+          <mxGeometry x="9" y="27" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-73" value="宾词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-71">
+          <mxGeometry x="11.5" y="54" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-84" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;规则前提&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="140.00000000000003" y="115" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-85" value="主词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-84">
+          <mxGeometry x="9" y="27" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-86" value="宾词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-84">
+          <mxGeometry x="11.5" y="54" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-87" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;要求前提&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="339" y="13.400000000000006" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-88" value="主词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-87">
+          <mxGeometry x="9" y="27" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-89" value="宾词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FaK1V-1xx2kYKJdkDcPP-87">
+          <mxGeometry x="11.5" y="54" width="35" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
