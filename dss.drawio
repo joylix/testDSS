@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T05:56:10.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VZKrqLGEVDzNLz1BJdfr" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T05:57:40.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pwAqtXmNE2F1lcG5Cy2D" version="22.1.7" type="github">
   <diagram name="第 1 页" id="mmYeaYz6IpLw3gN7_6xA">
     <mxGraphModel dx="607" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,9 +131,9 @@
           </mxCell>
         </object>
         <object label="&lt;span style=&quot;font-weight: normal;&quot;&gt;规则前提&lt;/span&gt;" 电吹风类型="家用型" id="FaK1V-1xx2kYKJdkDcPP-84">
-          <mxCell style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-            <mxGeometry x="384" y="120" width="60" height="80" as="geometry">
-              <mxRectangle x="384" y="120" width="76" height="30" as="alternateBounds" />
+          <mxCell style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="384" y="115" width="76" height="30" as="geometry">
+              <mxRectangle x="384" y="120" width="60" height="80" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
         </object>
@@ -147,9 +147,9 @@
             <mxGeometry x="11.5" y="54" width="35" height="20" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="FaK1V-1xx2kYKJdkDcPP-87" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;要求前提&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="280" y="60" width="60" height="80" as="geometry">
-            <mxRectangle x="280" y="60" width="80" height="30" as="alternateBounds" />
+        <mxCell id="FaK1V-1xx2kYKJdkDcPP-87" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;要求前提&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="280" y="60" width="80" height="30" as="geometry">
+            <mxRectangle x="280" y="60" width="60" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <object label="主词" 主词内容="适用类型" id="FaK1V-1xx2kYKJdkDcPP-88">
